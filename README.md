@@ -31,17 +31,9 @@ movies.txt
 
 ## How to Run
 
-Compile:
-
-```bash
-javac final_project/*.java
-```
-
-Run:
-
-```bash
-java final_project.MovieStoreApp
-```
+1. Open the project in Eclipse.
+2. Run `MovieStoreApp.java`.
+3. Follow the on-screen prompts to manage and search movies.
 
 ## Skills Demonstrated
 
