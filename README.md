@@ -39,22 +39,25 @@ javac final_project/*.java
 
 Run:
 
-```bash*java final_project.MovieStoreApp
-`*`
+```bash
+java final_project.MovieStoreApp
+```
 
 ## Skills Demonstrated
 
-- Objec*-Oriented Design
-- Data Management*- Searching and Sorting
-- File Per*istence
+- Object-Oriented Design
+- Data Management
+- Searching and Sorting
+- File Persistence
 - User Input Validation
 
-#* Future Improvements
+## Future Improvements
 
-- JavaFX GUI*- Database integration
-- Movie rat*ngs and reviews
+- JavaFX GUI
+- Database Integration
+- Movie Ratings and Reviews
 
 ## Author
 
-Xochit* Buker
-Community College of Denver*
+Xochitl Buker  
+Community College of Denver
