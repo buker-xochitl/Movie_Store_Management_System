@@ -1,0 +1,9 @@
+The Dark Knight;Christian Bale;2008;Action 
+The Godfather ;Al Pacino;1972;Crime
+The Exorcist;Ellen Burstyn;1973;Horror
+The Wizard of Oz;Judy Garland;1939;Adventure/Family
+Jaws;Robert Shaw;1975;Adventure/Drama
+The Terminator;Arnold Schwarzenegger;1984;Action/Adventure
+Raiders of the Lost Ark;Harrison Ford;1981;Action/Adventure
+Jurassic Park;Jeff Goldblum;1993;Action/Adventure
+Alien;Sigourney Weaver;1979;Horror/Science Fiction
